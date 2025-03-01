@@ -13,10 +13,15 @@ jobs:
       matrix:
             email: 
               - 'nguyenthuhuonghpwr9uhh7501@rotitk.us'
-              # - 'lemykieue93yotx2fj6f@rotitk.us'
+              - 'lemykieue93yotx2fj6f@rotitk.us'
               - 'nguyenmongnhif74lkeeuz7dc@rotitk.us'
               - 'mackimtuyenfbuyscf654ei@rotitk.us'
-              
+              - 'nguyenthuhuonghpwr9uhh7501@rotitk.us'
+              - 'lemykieue93yotx2fj6f@rotitk.us'
+              - 'nguyenmongnhif74lkeeuz7dc@rotitk.us'
+              - 'mackimtuyenfbuyscf654ei@rotitk.us'
+              - 'nguyenmongnhif74lkeeuz7dc@rotitk.us'
+              - 'mackimtuyenfbuyscf654ei@rotitk.us'
 
               #1DAY
               - 'duongbaotinqom3nqsusfs0@rotitk.us'
